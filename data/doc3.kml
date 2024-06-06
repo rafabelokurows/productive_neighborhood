@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>itens novos finais_agora vai_te amo_obrigada por tudo.kmz</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f0055</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>807f0055</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff3da8ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f0055</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>807f0055</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff3da8ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>80ffffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff3da8ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>80ffffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff3da8ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>itens novos</name>
+		<open>1</open>
+		<Placemark>
+			<name>Food boulevard</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-8.643415178942654,41.19042794217566,0 -8.643316694099063,41.1900593025693,0 -8.641261617988727,41.19037379524085,0 -8.640845766126532,41.18973328178041,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Urban Orchad</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-8.651081155843364,41.19970373232681,0 -8.650882668673995,41.19983026838043,0 -8.650491440173639,41.20010860969212,0 -8.650154043305584,41.20044156011023,0 -8.649925159305562,41.20071381586087,0 -8.650543815418221,41.20074177830825,0 -8.650643576680242,41.20099821424727,0 -8.650900982489869,41.20084530641046,0 -8.65112555007061,41.20072145703251,0 -8.651358697766939,41.20058963195684,0 -8.651476057998691,41.20047446824407,0 -8.651482503879711,41.20029313541477,0 -8.651466822813674,41.20003359818728,0 -8.651370358129105,41.19986519970019,0 -8.651241816462814,41.19966150200671,0 -8.651081155843364,41.19970373232681,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Agricultural Park</name>
+			<styleUrl>#m_ylw-pushpin000</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-8.65337249359667,41.19975060951732,0 -8.653890296659988,41.19830370678818,0 -8.653740206599107,41.1981507145469,0 -8.651217704032751,41.19960497442731,0 -8.651548957590144,41.19996916632822,0 -8.652134033188524,41.19996290588267,0 -8.652500878210263,41.20001665868382,0 -8.65337249359667,41.19975060951732,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Community Garden</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-8.638970414948723,41.18165920574155,0 -8.638653194925062,41.18139873709337,0 -8.638270451666347,41.18162868313812,0 -8.63835495968474,41.18127050424321,0 -8.637949292378323,41.18115120030858,0 -8.637810728941709,41.18132971890495,0 -8.637811945267128,41.18133141117757,0 -8.638032372080001,41.18150018714858,0 -8.637687120800475,41.18185687923111,0 -8.637982664440207,41.18202423255055,0 -8.638126583024487,41.18206729843968,0 -8.638320785686588,41.18204392101054,0 -8.638970414948723,41.18165920574155,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Institutional allotment garden</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-8.6530015038346,41.18443557181407,0 -8.652299683694617,41.18466857665347,0 -8.65251394660581,41.18502026991854,0 -8.653213303605432,41.18478509830662,0 -8.6530015038346,41.18443557181407,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Institutional allotment gardens</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-8.654690369414466,41.1923600694732,0 -8.654074443487014,41.19229921641796,0 -8.654005303829045,41.19238768515682,0 -8.653882772729579,41.1925099718868,0 -8.65518993779224,41.1932898362099,0 -8.655365254842138,41.19329822653097,0 -8.655457980184591,41.19321274270693,0 -8.655237899978802,41.19228203873118,0 -8.654690369414466,41.1923600694732,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Community garden</name>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-8.638206645123118,41.1913526300977,0 -8.638170152400424,41.19147128009536,0 -8.63836597513717,41.19141957871759,0 -8.638678233849657,41.19125615085553,0 -8.639018801541555,41.19100190088007,0 -8.639284102365274,41.19083076276688,0 -8.639401596850636,41.19072584168156,0 -8.639404325859584,41.19066544738088,0 -8.639414792369633,41.19046634621338,0 -8.639404216301461,41.19032496589133,0 -8.639131265164769,41.19028284659257,0 -8.638928560576174,41.19028098645796,0 -8.639242650100265,41.19061280834757,0 -8.638206645123118,41.1913526300977,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Community garden</name>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-8.63754648779944,41.18445366178813,0 -8.637112154430001,41.18422138216072,0 -8.636667012030001,41.18466134642639,0 -8.636923167390634,41.18480623239453,0 -8.636660391885897,41.18512453263378,0 -8.636826850487161,41.18521999017176,0 -8.63754648779944,41.18445366178813,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Community garden</name>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-8.642227741894194,41.19464469958558,0 -8.641667783320884,41.19489387802274,0 -8.641265221054562,41.19514558758384,0 -8.641268034401218,41.19517695545786,0 -8.641089605722046,41.19528505258533,0 -8.641470601378471,41.19525992776332,0 -8.641641269831101,41.19532558979922,0 -8.641624140073239,41.1950260579978,0 -8.642248069667408,41.19500794184075,0 -8.642227741894194,41.19464469958558,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Food boulevard</name>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-8.655918483193117,41.18938807809358,0 -8.656055526829027,41.18898447093783,0 -8.655928962038699,41.18885241020584,0 -8.6555273146008,41.18884553226759,0 -8.655425811318111,41.18835132984041,0 -8.654477221714815,41.18847509763565,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Food boulevard</name>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-8.654455760894365,41.18847031141667,0 -8.654155040281173,41.18850467275706,0 -8.653305927496168,41.18968314328192,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Food boulevard</name>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-8.656882862093815,41.19104513557192,0 -8.654927679187947,41.19026698480545,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Community garden</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-8.655993012846707,41.19351767735827,0 -8.656106956103937,41.19350821707688,0 -8.656105933589803,41.19332042459434,0 -8.656207159250926,41.19331303380798,0 -8.656243274704833,41.19320949216596,0 -8.656089975237323,41.19319015170515,0 -8.656026525677557,41.19283038793925,0 -8.656236373123027,41.19280814671864,0 -8.656241621792196,41.19260783674853,0 -8.655990936195346,41.19259588915011,0 -8.65595229961562,41.19234511845045,0 -8.656658096388067,41.19231161551249,0 -8.656629968387199,41.1922532739808,0 -8.657007548310885,41.19222907451466,0 -8.657001114309324,41.19214553071557,0 -8.657357035774814,41.19212395600955,0 -8.657351520025747,41.19206606426017,0 -8.657619141952047,41.19202446130377,0 -8.657543086777538,41.19177888881408,0 -8.656772487365547,41.19200907387341,0 -8.656037866351378,41.19213926997941,0 -8.655696483228706,41.19219208191593,0 -8.655993012846707,41.19351767735827,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Food boulevard</name>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-8.655917595275049,41.18940861192123,0 -8.655802890737711,41.18974797232794,0 -8.657759854509683,41.19050717579499,0 -8.657280860449367,41.19120281421713,0 -8.656898263390152,41.19103487974588,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Food boulevard</name>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-8.65728295902581,41.19117644974792,0 -8.658042817448592,41.19148495211763,0 -8.657445639828499,41.19178442064324,0 -8.656485652177345,41.19201544078155,0 -8.655837589828771,41.19211785721986,0 -8.655334702869407,41.19218678175574,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Food boulevard</name>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-8.65742535151265,41.19297204334451,0 -8.657109384128963,41.19264472064577,0 -8.656923399878353,41.19249953089155,0 -8.656426091062666,41.19247966214235,0 -8.655978710555326,41.19251706452262,0 -8.655874849777977,41.19251964121355,0 -8.655783390273458,41.19212623555155,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Food boulevard</name>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-8.632035296994642,41.18597771524119,0 -8.631651708263004,41.1860223100513,0 -8.631732162933099,41.18635366666845,0 -8.630964317889152,41.18642583389411,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Food boulevard</name>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-8.63573243039472,41.19603278204932,0 -8.635404693544521,41.19611704126356,0 -8.635142476668697,41.19712842972017,0 -8.635160615613785,41.19779534239088,0 -8.635379477736668,41.19862292882215,0 -8.63538154113688,41.19894322552783,0 -8.635932029883316,41.19908469022664,0 -8.636592475600812,41.1991781291595,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Food boulevard</name>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-8.63736789550202,41.19709842913122,0 -8.637316911042156,41.19776245855151,0 -8.63749442193741,41.19844074237947,0 -8.637657513048426,41.19904131878961,0 -8.637687396972002,41.19931620301796,0 -8.637442838327745,41.19949310507617,0 -8.636940622961212,41.19955659200033,0 -8.636518230661515,41.19950359929082,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Food boulevard</name>
+			<styleUrl>#m_ylw-pushpin7</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-8.643849678584509,41.19916908520653,0 -8.6423037660314,41.19955805750477,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Food boulevard</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-8.641265920163473,41.19037497435497,0 -8.642013006838587,41.19152147080818,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
